@@ -1,3 +1,17 @@
+#
+1) A text area should be present for entering task details along with an 'add' button.
+2) 'add' button should be disabled & grayed-out until some text is entered in the text area.
+3) After the 'add' button is clicked a task should be added & the textarea should be emptied.
+4) Todo list items should have a checkbox on the left & edit, delete buttons on the right of the text.
+5) While in edit mode the 'edit' button of that specific task should be replaced with a 'done' button.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
